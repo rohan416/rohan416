@@ -1,7 +1,7 @@
 ### Hi I'm Rohan!
 
-- 🔭 I’m currently working as Backen Developer Intern @Solytics-Partners
-- 🌱 I have good knowledge in Python, Django and REST apis
+- 🔭 I’m a Computer Science Graduate looking forward to advance my skills in DSA and Development
+- 
 - 📫 How to reach me: rohanchand416@gmail.com
 - 😄 Pronouns: He/Him
 
