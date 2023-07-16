@@ -1,7 +1,7 @@
 ### Hi I'm Rohan!
 
 - 🔭 I’m a Computer Science Graduate looking forward to advance my skills in DSA and Development
-- 
+
 - 📫 How to reach me: rohanchand416@gmail.com
 - 😄 Pronouns: He/Him
 
